@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "soy-geography-452315-p2",
+  "private_key_id": "a14d43388f3865ce272655f94ee2ebe6530cb23c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZAfjcg2LlIgrA\nOyIeUZ+l5eVwcxbOwHOZuErDGNUOUo3ov1e6uCrEtgikBTHjJDhqN5RGikFbOMU8\n/cX/+595U0zslT3FEmKojrdWSTsESxUZ0ZzUxgztjldhSaBKfvC7IPvBIVoyy0xJ\n54RjfUFq4hrzrKsBqONjdGt5Sei/rN0KMon8HeOFdg8/XK8OrOn1TeXz1EN/YfVU\nNMdrvbXE9HDUf+2svVIVWC4kx0t7M7MVs5fXysiwiC3JkgXsv/pZtanI9tdo6xb7\nEP2p96OOYjcsFeOlAM5X9JLWEK9WqrCM3mF8fSfMj/Xw4XXckm0QK0nmom8EGvet\nZ8okX8TjAgMBAAECggEAStJzwHBqtk9M/qfE5UhGb/h66hE8kW/oy90vpeIXf9c2\nB8SFlqMuV+Hdy9Pgtg0EiJb+QG4mB7Jky1lCnjbfbwEqOj5g7GSg8LY4f39DYoES\n1vKfjPt2dKgJ98jfhCANl6/RLe92fqH6/VZensEOv7ATE+Z6ldlqAZ4f+lNh9Ugd\nZKIeDxfZYyjYbD4hpyogPRDHW9hNZtI+hguynLG3y9JzeNhBStbECQPMZE4FuI8d\nx4idyfDc1Qo2E98Af/iDYzQc3Dj//Zd4ao/iTAzDRwebhd/JpWk1qytEjgqtEfLH\nbZHIJREDac562enuW3UcuOy7HnOkPN2AzwHv34Eb0QKBgQD/cn+zB/g704gVlufF\nZ0XbuNaGIL1+Z44MsSaSJPo2iGF+3QWeeEYTxEgtI0b8P6fueEznMffGOYTRlFx6\nbl2rukEiVsVEIYdTxXoOQom1mGYPvUmFR2BVjz97K+7lBbXJO0sP0pZGdf5vxQF7\npsSRftumhCSQeW6uZLOCo0TOcwKBgQDZei4maJhedRhJ74ec2wyWZNT+cXDbV5qR\nW/fO+xHSS82k37fHryM40Cqj0QNkwdO3Qv7SBGjxUy8fnlCW0UkCuec2t1TkQkTz\n5WpJ1ws8vaEVcTggPtvAOizz5RM8l6QjoxBePxgbFFPxSM50JzTyEpg6wH+Se60T\nzHz7n0Cj0QKBgQCl5HT8DqPuLmzFIJB6SZw7mmlvB9ooOhYtNerHpE3+lklCu0UH\n6jIQajs5XRyferOTkfrXdkLkL7yK4t+//ubEPJxKMbHAkkmxZKDkm9+U2FkHxbT2\nYik0x2fBlQF7KF8rRV908hz3u282pOlWpTIpDwqUtGKOlN4FUY6mu2NW8wKBgH6R\n61YTPcqLn604KNcTbYoB+Sx03Vfq7lx3CAyAdujLkU3Jnm4q8fbYwFhDBxSW8h8Q\ncLnOMz1wSla+juyXtURO6dAgdtm57+N6u5dp/nJFcwDFugKaUs7XjN4NjlqPbsoG\n1zniwqbP9+LPmshjIR9ZzxsyeYzJSfvh4UOYdchhAoGBAKfWzclZd9I9/FJu9NaH\nAW8eh09pakzFzfxj/XvZsQP0aq8D+knk2xuQfGooBf8DNnq86zIEmKEGvrKV3lGl\n5SdgeCgefkqJdktwYToMQlt0TTuegkyAExt8d9DU47iHFF2HKLAZ2oMlrUvvEeqA\nNVVgfhx+bME7eJeLm9HJJ0zZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "ai-therapist@soy-geography-452315-p2.iam.gserviceaccount.com",
+  "client_id": "102782501809599351020",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ai-therapist%40soy-geography-452315-p2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,194 @@
+{
+  "chat_history": [
+    {
+      "text": "DISCLAIMER: Not a substitute for professional services",
+      "is_user": false,
+      "timestamp": "2025-03-30 22:29:10",
+      "personality": "Therapist"
+    },
+    {
+      "text": "Hello! Select a mode and let's chat",
+      "is_user": false,
+      "timestamp": "2025-03-30 22:29:10",
+      "personality": "Therapist"
+    },
+    {
+      "text": "hey",
+      "is_user": true,
+      "timestamp": "2025-03-30 22:29:18",
+      "personality": null
+    },
+    {
+      "text": "Hey there. It sounds like you're reaching out. How are you feeling today? Is there anything on your mind you'd like to talk about? I'm here to listen without judgment.\n",
+      "is_user": false,
+      "timestamp": "2025-03-30 22:29:19",
+      "personality": "Therapist"
+    },
+    {
+      "text": "DISCLAIMER: Not a substitute for professional services",
+      "is_user": false,
+      "timestamp": "2025-03-30 22:29:36",
+      "personality": "Therapist"
+    },
+    {
+      "text": "Hello! Select a mode and let's chat",
+      "is_user": false,
+      "timestamp": "2025-03-30 22:29:36",
+      "personality": "Therapist"
+    },
+    {
+      "text": "i am feeling very sad",
+      "is_user": true,
+      "timestamp": "2025-03-30 22:29:47",
+      "personality": null
+    },
+    {
+      "text": "I'm truly sorry to hear you're feeling very sad. It takes courage to acknowledge that. Can you tell me a little more about what's contributing to your sadness? Sometimes, just talking about it can help. What has been happening lately?\n",
+      "is_user": false,
+      "timestamp": "2025-03-30 22:29:49",
+      "personality": "Therapist"
+    },
+    {
+      "text": "i dont know",
+      "is_user": true,
+      "timestamp": "2025-03-30 22:30:02",
+      "personality": null
+    },
+    {
+      "text": "It's okay to not know. Sometimes sadness can feel like a heavy blanket, making it hard to pinpoint the source. Have you noticed any changes in your life recently, big or small, that might be playing a role? Or perhaps, can you describe the feeling itself? Is it a dull ache, a sharp pang, or something else entirely?\n\nWe can explore some common causes of sadness if you like, such as:\n\n*   **Stress or Overwhelm:** Are you feeling",
+      "is_user": false,
+      "timestamp": "2025-03-30 22:30:04",
+      "personality": "Therapist"
+    },
+    {
+      "text": "i guess i want to die",
+      "is_user": true,
+      "timestamp": "2025-03-30 22:30:14",
+      "personality": null
+    },
+    {
+      "text": "I hear you. Saying you want to die takes immense courage, and I want you to know that I'm here to listen without judgment. You're not alone in feeling this way, even if it feels like it right now.\n\nCan you tell me more about what's bringing you to this point? What makes you feel like life isn't worth living? Knowing more can help us find a path forward.\n\nIt's important that you know there are people who want to",
+      "is_user": false,
+      "timestamp": "2025-03-30 22:30:16",
+      "personality": "Therapist"
+    },
+    {
+      "text": "DISCLAIMER: Not a substitute for professional services",
+      "is_user": false,
+      "timestamp": "2025-03-30 22:40:00",
+      "personality": "Therapist"
+    },
+    {
+      "text": "Hello! Select a mode and let's chat",
+      "is_user": false,
+      "timestamp": "2025-03-30 22:40:00",
+      "personality": "Therapist"
+    },
+    {
+      "text": "DISCLAIMER: Not a substitute for professional services",
+      "is_user": false,
+      "timestamp": "2025-03-30 23:29:54",
+      "personality": "Therapist"
+    },
+    {
+      "text": "Hello! Select a mode and let's chat",
+      "is_user": false,
+      "timestamp": "2025-03-30 23:29:54",
+      "personality": "Therapist"
+    },
+    {
+      "text": "DISCLAIMER: Not a substitute for professional services",
+      "is_user": false,
+      "timestamp": "2025-04-11 23:58:41",
+      "personality": "Therapist"
+    },
+    {
+      "text": "Hello! Select a mode and let's chat",
+      "is_user": false,
+      "timestamp": "2025-04-11 23:58:41",
+      "personality": "Therapist"
+    },
+    {
+      "text": "DISCLAIMER: Not a substitute for professional services",
+      "is_user": false,
+      "timestamp": "2025-07-08 02:00:49",
+      "personality": "Therapist"
+    },
+    {
+      "text": "Hello! Select a mode and let's chat",
+      "is_user": false,
+      "timestamp": "2025-07-08 02:00:50",
+      "personality": "Therapist"
+    },
+    {
+      "text": "hey",
+      "is_user": true,
+      "timestamp": "2025-07-08 02:00:56",
+      "personality": null
+    },
+    {
+      "text": "Hi there. It sounds like you're reaching out. How are you feeling today? Is there anything on your mind you'd like to talk about?\n",
+      "is_user": false,
+      "timestamp": "2025-07-08 02:00:57",
+      "personality": "Therapist"
+    },
+    {
+      "text": "i am very sad",
+      "is_user": true,
+      "timestamp": "2025-07-08 02:01:13",
+      "personality": null
+    },
+    {
+      "text": "I'm truly sorry to hear that you're feeling very sad. It takes courage to acknowledge that. Can you tell me a little more about what's making you feel this way? Even small details can sometimes help us understand the bigger picture. What has been going on?\n",
+      "is_user": false,
+      "timestamp": "2025-07-08 02:01:14",
+      "personality": "Therapist"
+    }
+  ],
+  "depression_scores": [
+    {
+      "timestamp": "2025-03-30 22:29:18",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-03-30 22:29:36",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2025-03-30 22:29:47",
+      "score": 2.0
+    },
+    {
+      "timestamp": "2025-03-30 22:30:02",
+      "score": 1.3333333333333333
+    },
+    {
+      "timestamp": "2025-03-30 22:30:14",
+      "score": 2.25
+    },
+    {
+      "timestamp": "2025-03-30 22:40:00",
+      "score": 2.25
+    },
+    {
+      "timestamp": "2025-03-30 23:29:54",
+      "score": 2.25
+    },
+    {
+      "timestamp": "2025-04-11 23:58:41",
+      "score": 2.25
+    },
+    {
+      "timestamp": "2025-07-08 02:00:50",
+      "score": 2.25
+    },
+    {
+      "timestamp": "2025-07-08 02:00:56",
+      "score": 1.8
+    },
+    {
+      "timestamp": "2025-07-08 02:01:13",
+      "score": 2.6
+    }
+  ]
+}

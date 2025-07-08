@@ -4,7 +4,6 @@ numpy
 pandas
 websockets
 python-dotenv==1.0.0
-pytest
 gevent
 openai
 google
@@ -26,7 +25,6 @@ Flask-Cors
 Flask-RESTful
 Flask-SocketIO
 playsound
-playwright
 SpeechRecognition==3.10.0
 taipy
 taipy-common
@@ -34,9 +32,6 @@ taipy-core
 taipy-gui
 taipy-rest
 taipy-templates
-torch
-torchaudio
-torchvision
 ttkbootstrap==1.10.1
 elevenlabs==0.2.26
 pygame==2.5.2

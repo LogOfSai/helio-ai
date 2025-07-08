@@ -32,6 +32,7 @@ taipy-core
 taipy-gui
 taipy-rest
 taipy-templates
+tkinter
 ttkbootstrap==1.10.1
 elevenlabs==0.2.26
 pygame==2.5.2
